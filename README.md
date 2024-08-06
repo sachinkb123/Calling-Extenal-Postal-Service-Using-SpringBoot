@@ -1,4 +1,4 @@
-# spring-boot-calling-external-postal-service
+# Calling-External-Postal-Service
 
 This Spring Boot application fetches post office details from an external API based on city names and stores them in a MySQL database.
 
